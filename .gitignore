@@ -1,10 +1,4 @@
 # Ignore compiled files
-*.class
-*.o
-*.pyc
-
-# Ignore editor-specific files
-.vscode/
+/shelf/
+/workspace.xml
 .idea/
-*.sublime-project
-*.sublime-workspace
