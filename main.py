@@ -1,4 +1,4 @@
-import sqlite3 # database import
+import sqlite3# database import
 # Function to create a table
 def create_table():
     connection = sqlite3.connect("data.db")  # "conn" is a object which represent the connection to sqlite db file("items.db")
